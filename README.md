@@ -1,0 +1,2 @@
+# GoogleNanodegree1_TourGuideApp
+Planning app design and navigation. Selecting proper data structures to store lists of information. Building layouts to display those lists of data. Navigating between those lists using intents and multiple Activities or a ViewPager. Creating custom classes. Properly handling images or audio. The tour guide app presents relevant information to a user who’s visiting my city- Pune. The app lists top attractions, restaurants, public places, or events for the city.
