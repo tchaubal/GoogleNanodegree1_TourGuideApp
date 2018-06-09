@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:minHeight="200dp"
+    android:id="@+id/text_container"
+    tools:context="com.example.tanushreechaubal.pune_aconfluenceofeastandwest.List_item_three_textviews">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:paddingBottom="@dimen/imagePadding"
+        android:paddingRight="@dimen/imagePadding"
+        android:paddingTop="@dimen/imagePadding"
+        android:paddingLeft="@dimen/imagePadding"
+        android:id="@+id/list_ImageView"
+        android:background="#FFF7DA"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_toRightOf="@+id/list_ImageView"
+        android:layout_toEndOf="@+id/list_ImageView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/commonPadding"
+        android:paddingTop="@dimen/imagePadding"
+        android:paddingRight="@dimen/commonPadding"
+        android:paddingBottom="@dimen/listItemDescriptionPadding">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="24dp"
+            android:gravity="top"
+            android:id="@+id/name_TextView"
+            tools:text="Name"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/location_TextView"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:paddingTop="@dimen/imagePadding"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/name_TextView"
+            android:gravity="top"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/textSizeLocation"
+            tools:text="Location" />
+
+        <TextView
+            android:id="@+id/description_TextView"
+            android:layout_width="match_parent"
+            android:layout_height="138dp"
+            android:paddingTop="@dimen/imagePadding"
+            android:layout_below="@+id/location_TextView"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:gravity="top"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/textSize"
+            tools:text="Description" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

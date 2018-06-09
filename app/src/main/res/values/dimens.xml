@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="commonPadding">16dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="aboutScreenImageTextView">90dp</dimen>
+    <dimen name="imagePadding">5dp</dimen>
+    <dimen name="listItemDescriptionPadding">10dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="textSizeLocation">14sp</dimen>
+</resources>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Pune - A Confluence Of East and West</string>
+    <string name="about">
+        Pune is the second largest city in the Indian state of Maharashtra after Mumbai and the seventh most populous city in the country.
+        \n Pune is the administrative headquarters of Pune district and was once the centre of power of the Maratha Empire established by Shivaji Maharaj.
+        \n Cultural capital of Maharashtra, Pune is known as "Oxford of the East" due to several well-known educational institutions in the city.
+        \nThe city has emerged as a major educational hub in recent decades, with nearly half of the total international students in the country studying in Pune.
+        \nThe city is known for its manufacturing and automobile industries, as well as for research institutes of information technology (IT),
+        education, management and training, which attracts students, and professionals from India, South East Asia, the Middle East and Africa, student-exchange programs with colleges in Europe.
+        \nPune is one of the fastest growing cities in the Asia-Pacific region. The ‘Mercer 2017 Quality of Living Rankings’ evaluated living conditions in more than 440 cities around the world and ranked Pune at 145, second in India after Hyderabad at 144. The same source highlights
+        \nPune among evolving business centres and nine emerging cities around the world with the citation "Hosts IT and automotive companies".
+    </string>
+    <string name="landmarks">Landmarks</string>
+    <string name="landmark_imagica">Adlabs Imagica</string>
+    <string name="landmark_imagica_loc">Dattwadi, Shobhapur, Kasba Peth, Pune, Maharashtra 411011.</string>
+    <string name="landmark_imagica_description">Famous for amusement park, taking pictures with the cartoon characters on the grounds, enjoying performances by magicians, stilt walkers, jugglers and clowns.</string>
+
+    <string name="landmark_pataleshwar">Pataleshwar Caves</string>
+    <string name="landmark_pataleshwar_loc">Jangali Maharaj Road, Revenue Colony, Shivajinagar, Pune 411005.</string>
+    <string name="landmark_pataleshwar_description">Rock cut cave temple dedicated to god Shiva that dates back to the 8th century is rectangular with a pillared porch famous for its umbrella shaped canopy held by massive square pillars.</string>
+
+    <string name="landmark_dagdusheth">Dagdusheth Ganesh Temple</string>
+    <string name="landmark_dagdusheth_loc">Ganpati Bhavan, Budhvar Peth, Shivaji Road, Pune 411002.</string>
+    <string name="landmark_dagdusheth_description">Built in 1893, the beautiful temple has Jay and Vijay, the two sentinels made of marble and a 7.5 feet high Ganesh idol that attracts people coming to celebrate Ganesh festival.</string>
+
+    <string name="landmark_khadakwasla">Khadakwasla Dam</string>
+    <string name="landmark_khadakwasla_loc">Near Khadakwasla Village, off Sinhagad Road, Pune 411024.</string>
+    <string name="landmark_khadakwasla_description">The dam is 1.6 km long and possesses 11 radial sluice gates and six irrigation outlets flowing into two canals. Famous for natural serenity, favourite tourist spot, cycling.</string>
+
+    <string name="landmark_nda_name">National Defence Academy (NDA - Pune)</string>
+    <string name="landmark_nda_loc">NDA Alumni Association, National Defence Academy, Pune 411023.</string>
+    <string name="landmark_nda_description">First tri service academy in the world. Since its establishment, the cadets from the academy have fought in major conflicts in which the Indian Armed Forces has been called to action.</string>
+
+    <string name="eats">Places To Eat</string>
+    <string name="restaurant_vaishali">Vaishali</string>
+    <string name="restaurant_vaishali_location">1218/1, Fergusson College Road, Deccan Gymkhana, Pune 411004.</string>
+    <string name="restaurant_vaishali_description">Famous for it\'s authentic South Indian dishes. Always crowded. The Mysore masala cheese dosa, ghee masala dosa, cutlets, s.p.d.p and filter coffee is specially famous.</string>
+
+    <string name="restaurant_bedekar">Bedekar Misal</string>
+    <string name="restaurant_bedekar_location">418 Munjabacha Bol, Narayan Peth, Pune 411030.</string>
+    <string name="restaurant_bedekar_description">Grassroots Indian dining with self-service and open kitchen. Speciality: Misal served with bread. Also available: Batata Wada, Bhaji, Chirote, Kharvas, Shendana-Gulkhand Ladoo.</string>
+
+    <string name="restaurant_thePlace">The Place - Sizzlers</string>
+    <string name="restaurant_thePlace_location">119, National Highway 9, Camp, Pune 411001.</string>
+    <string name="restaurant_thePlace_description">Oldest sizzler place in Pune. Quantity, rates are reasonable. Staff is friendly and service speed is good. Famous specially for the Chicken Peri Peri Shashlik sizzler.</string>
+
+    <string name="restaurant_nisarga">Nisarga - Fish Paradise</string>
+    <string name="restaurant_nisarga_location">6/1, Nalstop, Karve Road, Erandwane, Pune 411004.</string>
+    <string name="restaurant_nisarga_description">Famous for seafood. Has indoor and outdoor seating area. Prawn biryani, fish fry, crab and lobster dishes are specially famous. Ambience is good. Very prompt service.</string>
+
+    <string name="restaurant_lePlasir">Le Plasir</string>
+    <string name="restaurant_lePlasir_location">Rajkamal Survey No. 759/125, Prabhat Road, Pune 411004.</string>
+    <string name="restaurant_lePlasir_description">Chic monochrome interior European bistro, famous for Espresso Panna Cotta, Macarons, Ham and Mushroom Mix leaf Salad and The Meat Loader Muffin to name a few.</string>
+
+    <string name="techParks">Tech Parks</string>
+    <string name="techPark_magarpatta">Magarpatta City TechPark</string>
+    <string name="techPark_magarpatta_location">Magarpatta City, Hadapsar, Pune, Maharashtra.</string>
+    <string name="techPark_magarpatta_description">Magarpatta city is the one of three largest IT parks in Pune. In Magarpatta city, the major IT companies present are Sybase, Accenture, Amdocs , TCS, Red Hat, IGATE and many more.</string>
+
+    <string name="techPark_hinjewadi">Hinjewadi IT Hub and TechPark</string>
+    <string name="techPark_hinjewadi_location">Hinjewadi Tech Park and Hub, Hinjawadi, Pune, Maharashtra.</string>
+    <string name="techPark_hinjewadi_description">Mainly known for the Rajiv Gandhi Infotech Park, the 2800-acre IT park houses companies like TCS, Wipro, KPIT, Tech Mahindra, Cap Gemini, Persistent.</string>
+
+    <string name="techPark_One">Tech Park One - Yerawada</string>
+    <string name="techPark_One_location">Vatika Business Centre Level-5, Yerwada, Pune 411006.</string>
+    <string name="techPark_One_description">Tech Park One Pune is an executive business centre office space, meeting rooms and HD conferencing rooms in Pune. It provides Serviced Offices and Meeting Rooms.</string>
+
+    <string name="techPark_eon">Eon IT Park</string>
+    <string name="techPark_eon_location">Nagar Road, Kharadi, Pune, Maharashtra 411014.</string>
+    <string name="techPark_eon_description">Bluecode, Allscripts, Eaton Technologies, EpiComm, Affinity Express and Eclipsys are some of the well=know companies in Eon tech park.</string>
+
+    <string name="techPark_nanospace">Nanospace IT Park</string>
+    <string name="techPark_nanospace_location">Nano Space IT Park, Baner - Pashan Link Rd, Baner, Pune 411045.</string>
+    <string name="techPark_nanospace_description">Xoriant Solutions, Veritas Technologies, Bitwise Solutions, Enzigma Software, Harbinger Group, SphereGen Software are some of the well-known companies in the tech park.</string>
+
+    <string name="forts">Forts</string>
+    <string name="fort_shaniwarwada">Shaniwar Wada</string>
+    <string name="fort_shaniwarwada_location">Shaniwar Peth, Pune, Maharashtra 411030.</string>
+    <string name="fort_shaniwarwada_description">Built in 1732, seven-storied capital building of the Peshwas of the Maratha Empire until 1818. The perimeter wall has five gateways and nine bastion towers, a garden complex.</string>
+
+    <string name="fort_torna">Fort Torna</string>
+    <string name="fort_torna_location">Rajgad - Torna Trek Path, Charhat Wadi, Pune 412212.</string>
+    <string name="fort_torna_description">Torna Fort, was the first fort captured by Shivaji Maharaja in 1643, at the age of 16, forming the nucleus of the Maratha empire. It is the highest fort in Pune at 1,403 m.</string>
+
+    <string name="fort_sinhagad">Fort Sinhagad</string>
+    <string name="fort_sinhagad_location">Sinhagad Ghat Road, Dist Pune, Thoptewadi, Maharashtra 411025.</string>
+    <string name="fort_sinhagad_description">Strategically built 2000 years ago providing natural protection due to its very steep slopes, bastions constructed only at key places, Sinhagad is pivotal to Maratha history.</string>
+
+    <string name="fort_shivneri">Fort Shivneri</string>
+    <string name="fort_shivneri_location">Imam Raza Nagar, Junnar, Pune, Maharashtra 410502.</string>
+    <string name="fort_shivneri_description">Shivneri Fort is a 17th-century military fortification which is the birthplace of Chhatrapati Shivaji Maharaj, the founder of Maratha Empire.</string>
+
+    <string name="fort_visapur">Fort Visapur</string>
+    <string name="fort_visapur_location">Visapur Fort, Malavli, Pune, Maharashtra 410406.</string>
+    <string name="fort_visapur_description">Built during 1713-1720 CE by Balaji Vishwanath, the first Peshwa of Maratha Empire. Within the fort are caves, decorated arch, two massive bastions flanking central gate.</string>
+
+    <string name="gardens">Famous Gardens</string>
+    <string name="garden_bundgarden">Bund Garden</string>
+    <string name="garden_bundgardenLocation">Bund Garden, Sangamvadi, Pune, Maharashtra.</string>
+    <string name="garden_bundgardenDescription">Offering something for everyone, Bund Garden is a favorite haunt for those looking for a quiet, scenic place close to Mother Nature that helps one relax and rejuvenate.</string>
+
+    <string name="garden_peshwepark">Peshwe Park</string>
+    <string name="garden_peshweparkLocation">9, Sane Guruji Rd, Saras Baug, Pune 411030.</string>
+    <string name="garden_peshweparkDescription">Peshwe Park has a solar pavilion, battery operated Phulrani train, children\'s playground, 50 adventure sports like wall climbing, grappling, high altitude cycling.</string>
+
+    <string name="garden_empressgarden">Empress Garden</string>
+    <string name="garden_empressgardenLocation">Empress Graden, Kavade Mala, Ghorpadi, Pune 411001.</string>
+    <string name="garden_empressgardenDescription">Empress Garden (since 1880) is home to many rare species of trees and flowers. The well landscaped garden consists of lush green lawns, play area, snack shack.</string>
+
+    <string name="garden_pulagarden">Pu. La. Deshpande Garden</string>
+    <string name="garden_pulaLocation">Pune-Okayama Friendship Garden, Sinhagad Road, Pune 411030.</string>
+    <string name="garden_pulaDescription">Pu La Deshpande Garden or Pune-Okayama Friendship Garden, is inspired by 300 year old Okayama Korakuen Garden. The garden boasts of lush green lawns and streams with fish.</string>
+
+    <string name="garden_sambhajipark">Sambhaji Park</string>
+    <string name="garden_sambhajiparkLocation">Sambhaji Park, Sambhaji Bridge, Pune, Maharashtra.</string>
+    <string name="garden_sambhajiparkDescription">Sambhaji garden has jogging track for morning walkers, a huge fish aquarium, a mini fort specially made for kids and a big fountain to attract loads of people.</string>
+
+</resources>

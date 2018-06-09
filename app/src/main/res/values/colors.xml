@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9f138a</color>
+    <color name="colorPrimaryDark">#c74ac5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="forts">#ec710b</color>
+    <color name="techParks">#681d99</color>
+    <color name="placesToEat">#9f3e97</color>
+    <color name="gardens">#147940</color>
+    <color name="landmarks">#157fa3</color>
+    <color name="text">#f9f9f9</color>
+    <color name="tabBackground">#dfe1dd</color>
+</resources>
